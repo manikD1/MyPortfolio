@@ -38,7 +38,7 @@
 ## **🖥️ Ideal Display Resolution 🖥️**
 
 - 1920 * 1080
-- Fully *Responsive.*
+- *Fully Responsive.*
 
 &nbsp;
 ***
@@ -47,5 +47,16 @@
 
 &nbsp;
 ***
-## **📷 Post Designing Screenshot 📷**
-![](https://github.com/manikD1/MyPortfolio/blob/main/Actual-Screenshot.JPG)
+## **📷 Post Designing Screenshots 📷**
+
+![](https://github.com/manikD1/MyPortfolio/blob/main/Screenshots/Actual-Screenshot.JPG)
+
+![](https://github.com/manikD1/MyPortfolio/blob/main/Screenshots/Actual-Screenshot-1.JPG)
+
+![](https://github.com/manikD1/MyPortfolio/blob/main/Screenshots/Actual-Screenshot-2.JPG)
+
+![](https://github.com/manikD1/MyPortfolio/blob/main/Screenshots/Actual-Screenshot-3.JPG)
+
+![](https://github.com/manikD1/MyPortfolio/blob/main/Screenshots/Actual-Screenshot-4.JPG)
+
+![](https://github.com/manikD1/MyPortfolio/blob/main/Screenshots/Actual-Screenshot-5.JPG)
